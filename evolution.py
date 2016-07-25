@@ -15,4 +15,14 @@ class cell:
     def move(self,x,y):
         self.xy[0] += x
         self.xy[1] += y
+
 cells = []
+
+
+
+
+
+
+
+
+
